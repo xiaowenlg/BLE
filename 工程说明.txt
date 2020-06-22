@@ -1,0 +1,3 @@
+这是语音播报+显示（武汉晶显的屏)+数据上传          最终程序          
+
+电路图地址:E:\QF_Electronic Development Project\电路图\语音播报显示系统
